@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CW7
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b
+comment2.target=double\ findSum(int,\ int)
+comment3.params=age
+comment3.target=java.lang.String\ canIVote(int)
+numComments=4
