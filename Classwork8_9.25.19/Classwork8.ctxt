@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Classwork8
+comment0.text=\r\n\ Classwork\ 8\:\ Practice\ Assessment\ Problems\ 11\ and\ 12\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=size\ isFriday
+comment2.target=boolean\ raceToday(int,\ boolean)
+comment2.text=\ Question\ 11\:\ Define\ a\ function\ that\ determines\ if\ a\ rider\ can\ race\ their\ dirtbike\ today.\ A\ dirtbike\ race\ only\ \r\n\ happens\ on\ Fridays,\ and\ the\ motor\ requirements\ for\ the\ cc\u2019s\ (or\ cubic\ centimeters)\ specify\ that\ the\ motor\ has\ **\ a\ minimum\ of\ 150cc\ and\ a\ maximum\ of\ 800cc\ to\ be\ able\ to\ race.\ The\ method\ should\ return\ true\ if\ you\ are\ \ \r\n\ racing\ today.\r\n\r\n@param\ size\ describes\ the\ cc\u2019s\ for\ the\ dirt\ bike\r\n@param\ isFriday\ boolean\ data\ that\ is\ true\ if\ it\ is\ Friday\r\n\r\n@return\ True\ if\ the\ size\ is\ between\ 150\ and\ 800\ (inclusive)\ and\ it\u2019s\ Friday\r\n
+comment3.params=num
+comment3.target=int\ numValue(int)
+comment3.text=\ Question\ 12\:\ Define\ a\ function\ to\ determine\ if\ a\ number\ entered\ is\ even,\ then\ returns\ that\ number\ times\ 5.\ If\ **\ the\ number\ entered\ is\ odd\ and\ is\ divisible\ by\ 5,\ then\ the\ function\ returns\ that\ number\ divided\ by\ five.\ If\ the\ \r\n\ number\ is\ odd\ and\ is\ not\ divisible\ by\ 5,\ then\ the\ function\ returns\ three\ times\ that\ number.\ \r\n\r\n@param\ number\ the\ number\ that\ determines\ the\ outputs\ to\ the\ function\r\n\r\n@return\ five\ times\ number\ if\ the\ number\ is\ even,\ number/five\ if\ number\ is\ odd\ and\ \r\n\ divisible\ by\ five,\ and\ three\ times\ number\ if\ the\ number\ is\ odd\ and\ not\ divisible\ by\ five\r\n
+numComments=4
